@@ -1,7 +1,5 @@
 #!/bin/bash
 
-service nginx start
-
 set -e
 
 # Add elasticsearch as command if needed
